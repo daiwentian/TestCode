@@ -28,3 +28,4 @@ public class ResponseMessageBodyMessage {
 		return this.text;
 	}
 }
+

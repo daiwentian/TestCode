@@ -42,3 +42,4 @@ public class CustomPartitioner implements Partitioner {
         System.out.println("close!!");
     }
 }
+

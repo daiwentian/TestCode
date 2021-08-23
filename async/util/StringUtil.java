@@ -21,3 +21,4 @@ public class StringUtil {
 		return (str == null || 0 == str.length());
 	}
 }
+

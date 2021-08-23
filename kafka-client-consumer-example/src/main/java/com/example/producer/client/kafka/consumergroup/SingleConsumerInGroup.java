@@ -6,3 +6,4 @@ public class SingleConsumerInGroup {
         new Thread(consumeTask).start();
     }
 }
+

@@ -36,3 +36,4 @@ public class ResponseMessage {
 		this.time = time;
 	}
 }
+
